@@ -38,6 +38,7 @@ wheels/
 # Jupyter
 .ipynb_checkpoints
 *.ipynb
+!notebooks/ML-CancelDeceasePrediction.ipynb
 
 # Data
 *.csv
